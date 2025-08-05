@@ -17,18 +17,16 @@ Remember spending hours optimizing dynamic programming solutions for that frog t
 
 ## Installation
 
-### CDN (Recommended)
+<!-- ### CDN (Recommended)
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/froggy-plugin/dist/froggy.min.css">
 <script src="https://cdn.jsdelivr.net/npm/froggy-plugin/dist/froggy.min.js"></script>
-```
+``` -->
 
 ### Local Installation
 1. Download the latest release
 2. Include the files in your HTML:
 ```html
-<link rel="stylesheet" href="path/to/froggy.min.css">
-<script src="path/to/froggy.min.js"></script>
+<script src="froggy/dist/froggy.min.js"></script>
 ```
 
 ## Usage
